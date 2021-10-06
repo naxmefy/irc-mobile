@@ -9,10 +9,9 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
+      debugShowCheckedModeBanner: false,
       title: 'YuIRC',
-      theme: ThemeData(
-        primaryColor: Colors.white,
-      ),
+      theme: kDefaultTheme,
       home: NoServersView(),
     );
   }
