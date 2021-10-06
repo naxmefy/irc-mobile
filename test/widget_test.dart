@@ -6,7 +6,7 @@
 // tree, read text, and verify that the values of widget properties are correct.
 
 import 'package:flutter_test/flutter_test.dart';
-import 'package:yuirc/presentation/app.dart';
+import 'package:schnack/presentation/app.dart';
 
 void main() {
   testWidgets('simple smoke test', (WidgetTester tester) async {

@@ -1,4 +1,4 @@
-# yuirc
+# schnack
 
 A new Flutter project.
 

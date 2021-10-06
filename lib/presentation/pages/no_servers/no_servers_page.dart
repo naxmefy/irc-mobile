@@ -15,7 +15,7 @@ class NoServersPage extends StatelessWidget {
 
   AppBar _buildAppBar(BuildContext context) {
     return AppBar(
-      title: Text("YuIRC"),
+      title: Text("schnack"),
       centerTitle: true,
     );
   }

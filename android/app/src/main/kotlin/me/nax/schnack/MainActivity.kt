@@ -1,4 +1,4 @@
-package me.nax.yuirc
+package me.nax.schnack
 
 import io.flutter.embedding.android.FlutterActivity
 

@@ -1,6 +1,6 @@
 {
-    "name": "yuirc",
-    "short_name": "yuirc",
+    "name": "schnack",
+    "short_name": "schnack",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
